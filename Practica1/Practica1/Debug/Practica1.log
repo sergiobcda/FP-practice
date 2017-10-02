@@ -1,0 +1,5 @@
+﻿  Practica1.cpp
+c:\users\sergi\source\repos\practica1\practica1\practica1.cpp(323): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\sergi\source\repos\practica1\practica1\practica1.cpp(121): warning C4715: 'startLauncher': no todas las rutas de acceso de control devuelven un valor
+  Practica1.vcxproj -> C:\Users\Sergi\source\repos\Practica1\Debug\Practica1.exe
+  Practica1.vcxproj -> C:\Users\Sergi\source\repos\Practica1\Debug\Practica1.pdb (Partial PDB)

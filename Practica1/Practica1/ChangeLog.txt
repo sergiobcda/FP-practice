@@ -1,0 +1,26 @@
+V0.1
+-Implementacion basica de las funciones esenciales y las const necesarias
+
+V0.2
+-Mod de algunas funciones (de sus algoritmos), adaptacion de para lectura de archivos
+-Añadida posibilidad de registrar un apodo que no este en el registro
+-Eliminada la posibilidad de tratar con passwords
+
+V0.3
+-Arreglados algunos problemas de lectura, escritura
+-Añadidas funciones independientes para la eleccion de un jugador humano o maquina
+-Desencapsulacion del los menus principales y del launcher a la logica del juego que ahora se encuentra en startGame
+-Arreglados problemas con el algoritmo de busqueda de un ganador, getWinner, ahora es funcional
+
+V1.0
+-Arreglos varios y comprobacion de todas las funciones, la ejecucion es estable para los datos esperados
+
+V1.01
+-Arreglados problemas de lectura, ahora no se enecesita un centinela XXX en los archivos
+
+V1.02
+-Se permite que el archivo lleve o no centinela (XXX)
+-Coloca el centinela en una const
+
+V1.03
+-Revision de los metodos de lectura de datos en registration() y loadData()
